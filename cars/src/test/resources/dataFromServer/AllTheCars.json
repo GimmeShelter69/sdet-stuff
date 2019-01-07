@@ -1,0 +1,171 @@
+{
+	"Cars": [{
+			"make": "Chevrolet",
+			"model": "Camaro",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 150,
+				"Discount": 12
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Dodge",
+			"model": "Charger RT",
+			"vin": "12AGHY64352JITEG55R",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Mint condition"
+			},
+			"perdayrent": {
+				"Price": 200,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 1000.43,
+				"rentalcount": {
+					"lastweek": 12,
+					"yeartodate": 400
+				}
+			}
+		},
+		{
+			"make": "Tesla",
+			"model": "Model S",
+			"vin": "09AGHY64352JITEG94K",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 180,
+				"Discount": 17
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Tesla",
+			"model": "Model S",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "No scratches"
+			},
+			"perdayrent": {
+				"Price": 180,
+				"Discount": 17
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Tesla",
+			"model": "Model S",
+			"vin": "09AGHY64352JITEG78K",
+			"metadata": {
+				"Color": "Green",
+				"Notes": "No scratches"
+			},
+			"perdayrent": {
+				"Price": 180,
+				"Discount": 17
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Ford",
+			"model": "Fiesta",
+			"vin": "10AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Navy Blue",
+				"Notes": "No scratches"
+			},
+			"perdayrent": {
+				"Price": 100,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 600.04,
+				"depreciation": 500.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		},
+		{
+			"make": "Porsche",
+			"model": "718 Cayman GTS",
+			"vin": "11AGHY64352JITEG98Y",
+			"metadata": {
+				"Color": "Silver",
+				"Notes": "Mint condition"
+			},
+			"perdayrent": {
+				"Price": 800,
+				"Discount": 2
+			},
+			"metrics": {
+				"yoymaintenancecost": 10000.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 0,
+					"yeartodate": 40
+				}
+			}
+		},
+		{
+			"make": "Chevrolet",
+			"model": "Cruze",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 110,
+				"Discount": 25
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+		}
+	]
+}

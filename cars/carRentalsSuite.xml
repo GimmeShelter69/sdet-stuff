@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RentalsSuite" parallel="none">
+  <test name="CarRentalTests">
+  <parameter name="expNumberOfTeslas" value="2"></parameter>
+  <parameter name="expColorOfTesla" value="Blue"></parameter>
+  <parameter name="expLowestPricedCar" value="Ford Fiesta"></parameter>
+  <parameter name="expLowestPricedCarAfterDiscount" value="Chevrolet Cruze"></parameter>
+  <parameter name="expHighestProfitCar" value="Dodge Charger RT"></parameter>
+    <classes>
+      <class name="org.wjihle.cars.tests.TestController"/>
+    </classes>
+  </test>
+</suite>
